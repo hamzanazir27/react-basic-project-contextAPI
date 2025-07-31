@@ -62,15 +62,12 @@ npm run dev
 
 - How to create and use React Context API to manage global state
 - How to toggle themes using state (`useState`)
-- How to update the HTML `<html>` tag to apply dark mode
-- Tailwind's new dark mode setup using `@custom-variant`
-- How to access context in any component using `useContext`
 
 ---
 
 ### 🌐 Live Preview
 
-_(Add your deployed link here if available)_
+_([Live Demo](https://react-basic-project-context-api.vercel.app/))_
 
 ---
 
