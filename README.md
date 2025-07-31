@@ -71,6 +71,4 @@ _([Live Demo](https://react-basic-project-context-api.vercel.app/))_
 
 ---
 
-### 🧠 Author's Note
-
 This project helped me understand React Context API in a real-world use case. I now feel confident managing state globally without prop-drilling.
